@@ -9,7 +9,5 @@ void	ft_print_numbers(void)
 	{
 		write(1, &num, 1);
 		num++;
-		num--;
-		num++;
 	}
 }
